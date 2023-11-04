@@ -31,11 +31,11 @@ To set up the ChatGPT PDF Assistant, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Alami64/cs589_week6_hw3.git)
 ```
 2. Navigate to the project directory:
 ```
-cd your-repo-name
+cd cs589_week6_hw3
 ```
 3. Install the required Python packages:
 ```
